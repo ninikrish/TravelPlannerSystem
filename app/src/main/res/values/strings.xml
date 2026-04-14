@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">HotelBookingSystem</string>
+    <string name="txtHotel1">Golden Retreat</string>
+    <string name="txtHotel2">Royal Plaza Hotel</string>
+    <string name="txtHotel3">Villa Resort Hotel</string>
+    <string name="btnBooking">Make a Booking</string>
+    <string name="txttext1">Golden Retreat is a serene escape where
+        luxury meets comfort. With elegant rooms, and pool surroundings,
+        it’s the perfect destination for relaxation and rejuvenation.
+    </string>
+    <string name="txtText2">
+        Royal Plaza Hotel offers a sophisticated blend of elegance and
+        modern comfort, perfect for both business and leisure travelers.
+        With stylish accommodations, it promises a truly memorable stay.
+    </string>
+    <string name="txtText3">Villa Resort Hotel is a tranquil getaway that
+    combines luxurious comfort with a touch of natural beauty and scenic retreat.
+    </string>
+
+
+    <string name="txtHeading">Stay4Life.com</string>
+    <string name="txtDetailTitle">Details</string>
+    <string name="txtGoldenPrice">R1500/night</string>
+    <string name="lblCheckin">Check-in date</string>
+    <string name="lblCheckOut">Check-out date</string>
+    <string name="RoyalPlazaPrice">R1800/night</string>
+    <string name="VillaPrice">R1900/night</string>
+</resources>
