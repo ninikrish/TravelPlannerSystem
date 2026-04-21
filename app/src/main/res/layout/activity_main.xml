@@ -76,7 +76,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:text="@string/btnBooking"
+                    android:text="@string/txtDetailTitle"
                     android:textColor="#FFFFFF"
                     android:textColorLink="#FFEB3B" />
 
